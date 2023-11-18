@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform-app-poke", "winform-app-poke\winform-app-poke.csproj", "{2A71FF9C-7240-449B-A12E-EEA61880D682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musicAr", "musicAr\musicAr.csproj", "{7AF7CD34-A483-4170-B546-2614C8FB30A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A71FF9C-7240-449B-A12E-EEA61880D682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A71FF9C-7240-449B-A12E-EEA61880D682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A71FF9C-7240-449B-A12E-EEA61880D682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A71FF9C-7240-449B-A12E-EEA61880D682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF7CD34-A483-4170-B546-2614C8FB30A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF7CD34-A483-4170-B546-2614C8FB30A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF7CD34-A483-4170-B546-2614C8FB30A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF7CD34-A483-4170-B546-2614C8FB30A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C792EECB-B001-4C2C-A388-53380FBC21FC}
+	EndGlobalSection
+EndGlobal
